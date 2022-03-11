@@ -4,6 +4,6 @@ title: 'Hello'
 
 # Hello
 
-This page will match `/hello`.
+This file `hello/index.md` matches `/hello`.
 
-Yes, `next-markdown` supports dynamic routes, like nextjs does with `pages/`.
+Indeed, `next-markdown` supports dynamic routes, like nextjs does with `pages/`.
